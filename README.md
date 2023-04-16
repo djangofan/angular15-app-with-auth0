@@ -12,7 +12,7 @@ Auth0 is a flexible drop-in solution to add authentication and authorization ser
 
 ## Set Up and Run the Angular Project
 
-Install the project dependencies:
+Install the project dependencies.   You will also need to create the `.env` file mentioned in instructions.
 
 ```bash
 npm install
