@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { DESKTOP_COMPONENTS } from \"./desktop\";\nimport { MOBILE_COMPONENTS } from \"./mobile\";\nexport const NAVIGATION_COMPONENTS = [...DESKTOP_COMPONENTS, ...MOBILE_COMPONENTS];","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
